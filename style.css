@@ -1,0 +1,25 @@
+
+body{
+    color: rgb(17, 17, 17);
+    background: aqua;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+
+  }
+  
+  .object_name , #object_r , #accuracy_r{
+      color: rgb(6, 6, 7);
+  }
+  #mother , #father , #sis , #bro{
+      background-color:yellow;
+      font-size: 20px;
+  }
